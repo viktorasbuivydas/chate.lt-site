@@ -2,7 +2,7 @@
   <section class="bg-white h-screen">
     <div class="mx-auto flex lg:justify-center h-full flex-col lg:flex-row">
       <div
-        class="w-full lg:w-1/2 px-2 py-20 sm:py-40 sm:px-12 flex flex-col justify-center items-center bg-blue-600 relative"
+        class="w-full lg:w-1/2 px-2 py-20 md:py-40 md:px-12 flex flex-col justify-center items-center bg-blue-600 relative"
       >
         <div class="absolute left-0 top-0 pl-3 pt-3">
           <svg width="130" height="462" xmlns="http://www.w3.org/2000/svg">
@@ -12,48 +12,48 @@
               fill-rule="evenodd"
             >
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 width="6.002"
                 height="6.005"
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="31.002"
                 width="6.002"
                 height="6.005"
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="62.003"
                 width="6.002"
                 height="6.005"
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="93.005"
                 width="6.002"
                 height="6.005"
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="124.007"
                 width="6.002"
                 height="6.005"
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 y="24.015"
                 width="6.002"
                 height="6.005"
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="31.002"
                 y="24.015"
                 width="6.002"
@@ -61,7 +61,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="62.003"
                 y="24.015"
                 width="6.002"
@@ -69,7 +69,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="93.005"
                 y="24.015"
                 width="6.002"
@@ -77,7 +77,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="124.007"
                 y="24.015"
                 width="6.002"
@@ -85,14 +85,14 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 y="48.029"
                 width="6.002"
                 height="6.005"
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="31.002"
                 y="48.029"
                 width="6.002"
@@ -100,7 +100,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="62.003"
                 y="48.029"
                 width="6.002"
@@ -108,7 +108,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="93.005"
                 y="48.029"
                 width="6.002"
@@ -116,7 +116,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="124.007"
                 y="48.029"
                 width="6.002"
@@ -124,14 +124,14 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 y="72.044"
                 width="6.002"
                 height="6.005"
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="31.002"
                 y="72.044"
                 width="6.002"
@@ -139,7 +139,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="62.003"
                 y="72.044"
                 width="6.002"
@@ -147,7 +147,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="93.005"
                 y="72.044"
                 width="6.002"
@@ -155,7 +155,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="124.007"
                 y="72.044"
                 width="6.002"
@@ -163,14 +163,14 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 y="96.059"
                 width="6.002"
                 height="6.005"
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="31.002"
                 y="96.059"
                 width="6.002"
@@ -178,7 +178,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="62.003"
                 y="96.059"
                 width="6.002"
@@ -186,7 +186,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="93.005"
                 y="96.059"
                 width="6.002"
@@ -194,7 +194,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="124.007"
                 y="96.059"
                 width="6.002"
@@ -202,14 +202,14 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 y="120.073"
                 width="6.002"
                 height="6.005"
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="31.002"
                 y="120.073"
                 width="6.002"
@@ -217,7 +217,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="62.003"
                 y="120.073"
                 width="6.002"
@@ -225,7 +225,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="93.005"
                 y="120.073"
                 width="6.002"
@@ -233,7 +233,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="124.007"
                 y="120.073"
                 width="6.002"
@@ -241,14 +241,14 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 y="144.088"
                 width="6.002"
                 height="6.005"
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="31.002"
                 y="144.088"
                 width="6.002"
@@ -256,7 +256,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="62.003"
                 y="144.088"
                 width="6.002"
@@ -264,7 +264,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="93.005"
                 y="144.088"
                 width="6.002"
@@ -272,7 +272,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="124.007"
                 y="144.088"
                 width="6.002"
@@ -280,14 +280,14 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 y="168.103"
                 width="6.002"
                 height="6.005"
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="31.002"
                 y="168.103"
                 width="6.002"
@@ -295,7 +295,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="62.003"
                 y="168.103"
                 width="6.002"
@@ -303,7 +303,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="93.005"
                 y="168.103"
                 width="6.002"
@@ -311,7 +311,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="124.007"
                 y="168.103"
                 width="6.002"
@@ -319,14 +319,14 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 y="192.117"
                 width="6.002"
                 height="6.005"
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="31.002"
                 y="192.117"
                 width="6.002"
@@ -334,7 +334,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="62.003"
                 y="192.117"
                 width="6.002"
@@ -342,7 +342,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="93.005"
                 y="192.117"
                 width="6.002"
@@ -350,7 +350,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="124.007"
                 y="192.117"
                 width="6.002"
@@ -358,14 +358,14 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 y="216"
                 width="6.002"
                 height="6.005"
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="31.002"
                 y="216"
                 width="6.002"
@@ -373,7 +373,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="62.003"
                 y="216"
                 width="6.002"
@@ -381,7 +381,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="93.005"
                 y="216"
                 width="6.002"
@@ -389,7 +389,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="124.007"
                 y="216"
                 width="6.002"
@@ -397,14 +397,14 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 y="240.015"
                 width="6.002"
                 height="6.005"
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="31.002"
                 y="240.015"
                 width="6.002"
@@ -412,7 +412,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="62.003"
                 y="240.015"
                 width="6.002"
@@ -420,7 +420,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="93.005"
                 y="240.015"
                 width="6.002"
@@ -428,7 +428,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="124.007"
                 y="240.015"
                 width="6.002"
@@ -436,14 +436,14 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 y="264.029"
                 width="6.002"
                 height="6.005"
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="31.002"
                 y="264.029"
                 width="6.002"
@@ -451,7 +451,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="62.003"
                 y="264.029"
                 width="6.002"
@@ -459,7 +459,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="93.005"
                 y="264.029"
                 width="6.002"
@@ -467,7 +467,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="124.007"
                 y="264.029"
                 width="6.002"
@@ -475,14 +475,14 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 y="288.044"
                 width="6.002"
                 height="6.005"
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="31.002"
                 y="288.044"
                 width="6.002"
@@ -490,7 +490,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="62.003"
                 y="288.044"
                 width="6.002"
@@ -498,7 +498,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="93.005"
                 y="288.044"
                 width="6.002"
@@ -506,7 +506,7 @@
                 rx="3.001"
               />
               <rect
-                class="hidden sm:block"
+                class="hidden md:block"
                 x="124.007"
                 y="288.044"
                 width="6.002"
